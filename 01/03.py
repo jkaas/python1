@@ -1,4 +1,3 @@
-import time
 import turtle
 
 turtle.width(10)
@@ -26,4 +25,4 @@ turtle.pendown()
 turtle.color("green")
 turtle.circle(50)
 
-time.sleep(10)
+turtle.done()

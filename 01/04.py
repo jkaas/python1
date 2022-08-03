@@ -1,5 +1,4 @@
 import turtle
-import time
 
 turtle.color("red")
 
@@ -32,4 +31,4 @@ turtle.goto(110, -60)
 turtle.goto(110, -10)
 turtle.goto(60, -10)
 
-time.sleep(10)
+turtle.done()
